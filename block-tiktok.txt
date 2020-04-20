@@ -1,0 +1,6 @@
+#block-tiktok
+||byteimg.com^
+||snssdk.com^
+||pstatp.com^
+||amemv.com^
+||dig.bdurl.net^
