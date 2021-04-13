@@ -4,3 +4,4 @@
 ||pstatp.com^
 ||amemv.com^
 ||dig.bdurl.net^
+||douyin.com^
